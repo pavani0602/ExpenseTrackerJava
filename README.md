@@ -18,5 +18,5 @@ A simple console-based Java application to track daily expenses.
 
 ## How to Run
 Compile and run using:
-javac Expense.java ExpenseTracker.java
-java ExpenseTracker
+-javac Expense.java ExpenseTracker.java
+-java ExpenseTracker
